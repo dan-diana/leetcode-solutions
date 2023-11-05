@@ -3,6 +3,7 @@ package org.example.solutions;
 import static org.junit.jupiter.api.Assertions.assertArrayEquals;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
+import org.example.algotithms.TwoSum1;
 import org.junit.jupiter.api.Test;
 
 class TwoSum1DiffblueTest {
